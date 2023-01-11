@@ -10,14 +10,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Работа с csv файлами\2 задача\condensed.csv">
+        <entry key="\Работа с csv файлами\2 задача\data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Работа с csv файлами\2 задача\data.csv">
+        <entry key="\Работа с csv файлами\3 задача\sorted_student_counts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Работа с csv файлами\3 задача\student_counts.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
